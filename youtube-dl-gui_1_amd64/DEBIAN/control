@@ -1,0 +1,10 @@
+Package: youtube-dl-gui
+Version: 1
+Architecture: amd64
+Essential: no
+Priority: optional
+Depends: python3, python3-pip
+Maintainer: macandmore
+Description: Download YouTube Videos.
+Section: video
+Origin: buster 

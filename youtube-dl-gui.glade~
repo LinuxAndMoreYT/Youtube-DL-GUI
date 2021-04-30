@@ -196,6 +196,19 @@
             <property name="y">145</property>
           </packing>
         </child>
+        <child>
+          <object class="GtkButton" id="Abbruch">
+            <property name="label" translatable="yes">Abbruch</property>
+            <property name="width_request">100</property>
+            <property name="height_request">30</property>
+            <property name="can_focus">True</property>
+            <property name="receives_default">True</property>
+          </object>
+          <packing>
+            <property name="x">900</property>
+            <property name="y">120</property>
+          </packing>
+        </child>
       </object>
     </child>
   </object>

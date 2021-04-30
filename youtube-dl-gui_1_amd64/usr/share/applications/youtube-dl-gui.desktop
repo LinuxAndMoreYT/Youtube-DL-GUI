@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=YouTube DL GUI
+Comment=Download YouTube Videos.
+Exec=python3 "/opt/youtube-dl-gui/YouTube DL GUI" %u
+Icon=preferences-desktop-multimedia
+Terminal=false
+Type=Application
+Categories=Utility;
